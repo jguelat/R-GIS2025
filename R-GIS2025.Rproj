@@ -1,0 +1,18 @@
+Version: 1.0
+ProjectId: 74b9d3f8-2c8b-4de5-a124-f856ff34bfdb
+
+RestoreWorkspace: No
+SaveWorkspace: No
+AlwaysSaveHistory: No
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: knitr
+LaTeX: pdfLaTeX
+
+UseNativePipeOperator: Yes
+
+SpellingDictionary: en_US
